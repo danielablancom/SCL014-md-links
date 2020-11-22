@@ -38,7 +38,7 @@ $ node tuarchivo.js tuarchivo.md --s -v o node tuarchivo.js tuarchivo.md ---stat
 ```js
 $ npx danielablancom-md-links tuarchivo.md 
 ``` 
-* Sigue los comandos para ver esl estado o las estadísticas de los links.
+* Sigue los comandos para ver el estado o las estadísticas de los links.
 
 ### Opciones 
 * Si pasamos la opción -validate o -v, así es como deberías poder ver los resultados en la terminal. 
